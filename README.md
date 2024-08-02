@@ -48,5 +48,3 @@ Untuk menjalankan proyek ini:
 2. Pastikan Anda memiliki paket yang diperlukan terinstal (`pandas`, `matplotlib`, `seaborn`)
 3. Jalankan notebook di Google Colab atau secara lokal
 
-## Lisensi
-Proyek ini dilisensikan di bawah MIT License.
